@@ -1,0 +1,19 @@
+html{
+    box-sizing:border-box;
+    background-color: whitesmoke;
+    text-align: center;
+}
+p{
+    font-size: 20 px;
+}
+
+.container{
+    display:flex;
+    justify-content:center;
+}
+
+figcaption{
+    font-size: 25 px;
+    color: green;
+    font-style:italic;
+}
